@@ -1,0 +1,1 @@
+# Android-Tipo-sanguineo
