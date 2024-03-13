@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tipos Sanguineo</string>
+    <string name="entrada">Informe seu tipo sanguíneo</string>
+    <string name="busca">Pesquisar</string>
+</resources>
